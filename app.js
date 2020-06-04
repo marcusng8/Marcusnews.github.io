@@ -1,4 +1,4 @@
-const API_KEY = '1562820b9cfb4eb1a8cee664b129c26a';
+const API_KEY = 'e1c19d4dc19d4ed4acc70295ef471a5b';
 
 function exibeNoticias () {
     let divTela = document.getElementById('tela');
